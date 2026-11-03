@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms of Service | Amara Music</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.7;
+      color: #333;
+    }
+    h1, h2 { color: #5865F2; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p><strong>Amara Music</strong> — Discord Music & Community Bot by Team Amara.</p>
+  <p>Last updated: November 4, 2026</p>
+
+  <h2>1. Acceptance of Terms</h2>
+  <p>By inviting or using Amara Music, you agree to these Terms of Service. If you do not agree, please stop using the bot.</p>
+
+  <h2>2. Acceptable Use</h2>
+  <p>You agree not to misuse Amara Music, interfere with its operation, exploit bugs, or use its features for unlawful or harmful purposes.</p>
+
+  <h2>3. Service Availability</h2>
+  <p>Amara Music is provided on an availability basis. Features may be changed, temporarily unavailable, or discontinued for maintenance, technical reasons, or other operational needs.</p>
+
+  <h2>4. User Responsibilities</h2>
+  <p>Users and server administrators are responsible for how they use the bot and configure its features in their Discord servers. Users must also follow Discord's Terms of Service and Community Guidelines.</p>
+
+  <h2>5. Third-Party Services</h2>
+  <p>Amara Music may rely on third-party services for music playback, hosting, and other functionality. Their availability and terms are outside our control.</p>
+
+  <h2>6. Changes to These Terms</h2>
+  <p>We may update these Terms of Service when necessary. Continued use of Amara Music after an update means you accept the revised terms.</p>
+
+  <h2>7. Contact</h2>
+  <p>For questions or support, contact the Amara Music team through our official support server.</p>
+
+  <hr>
+  <p>&copy; 2026 Team Amara. All rights reserved.</p>
+</body>
+</html>

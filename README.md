@@ -1,1 +1,1 @@
-# amara-legal.
+# amara-legal

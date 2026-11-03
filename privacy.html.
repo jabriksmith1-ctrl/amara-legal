@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy | Amara Music</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.7;
+      color: #333;
+    }
+    h1, h2 { color: #5865F2; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Amara Music</strong> — Discord Music & Community Bot by Team Amara.</p>
+  <p>Last updated: November 4, 2026</p>
+
+  <h2>1. Information We May Collect</h2>
+  <p>Depending on the features used, Amara Music may process Discord user IDs, server IDs, channel IDs, music activity, command usage, and server configuration data.</p>
+
+  <h2>2. How We Use Information</h2>
+  <p>Information is used to operate bot features, maintain music queues and server settings, provide statistics and community features, troubleshoot errors, and improve the service.</p>
+
+  <h2>3. Data Storage</h2>
+  <p>Some information may be stored in a database to support persistent features. Data is retained only as reasonably necessary for the operation of the service.</p>
+
+  <h2>4. Data Sharing</h2>
+  <p>We do not sell users' personal information. Data may be processed by third-party providers that help operate hosting, databases, or music services.</p>
+
+  <h2>5. Data Security</h2>
+  <p>We take reasonable steps to protect stored information. However, no online service or storage system can be guaranteed completely secure.</p>
+
+  <h2>6. Data Requests</h2>
+  <p>For questions about stored information or requests to access or delete data, contact the Amara Music team through our official support server. We may need relevant Discord IDs or other details to identify the data concerned.</p>
+
+  <h2>7. Children's Privacy</h2>
+  <p>Amara Music is not designed to collect personal information directly from children. Users must follow Discord's minimum age requirements and applicable laws.</p>
+
+  <h2>8. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy when our features or data practices change. The latest version will be published on this page.</p>
+
+  <h2>9. Contact</h2>
+  <p>For privacy questions, contact the Amara Music team through our official support server.</p>
+
+  <hr>
+  <p>&copy; 2026 Team Amara. All rights reserved.</p>
+</body>
+</html>
